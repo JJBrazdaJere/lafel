@@ -11,6 +11,10 @@ body {
     background-color: #f9f9f9;
     color: #323337;
 }
+.menu .navbar ul button {
+    text-align: right;
+    width: 100%;
+}
 
 .container {
     padding: 20px;
