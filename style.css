@@ -52,7 +52,7 @@ body{
     padding: 20px;
     color: #8f8257; /* Color del texto */
     display: block;
-    font-weight: 600;
+    font-weight: 600px;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
@@ -105,7 +105,7 @@ body{
     position: relative;
 }
 .hummus-content{
-    text-align: center;
+    text-align: flex;
 }
 .hummus-content h2{
     font-size: 55px;
@@ -144,7 +144,7 @@ body{
     background-image: linear-gradient(
         rgba(0,0,0,0.7),
         rgba(0,0,0,0.7)),
-        url(imagenes/blog3.jpg);
+        url(imagenes/fondo.jpeg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
